@@ -1,0 +1,24 @@
+Start training 24 Feb 2021 01:53:03
+Epoch, Time [mins], Loss
+0, 0.17, 1.3066
+End @ 24 Feb 2021 01:53:13
+Start training 24 Feb 2021 01:53:24
+Epoch, Time [mins], Loss
+0, 0.16, 0.6562
+1, 0.03, 0.6050
+2, 0.03, 0.5967
+3, 0.03, 0.5868
+4, 0.03, 0.5765
+End @ 24 Feb 2021 01:53:41
+Start training 24 Feb 2021 02:12:22
+Epoch, Time [mins], Loss
+0, 0.17, 0.5654
+End @ 24 Feb 2021 02:12:32
+Start training 24 Feb 2021 02:12:39
+Epoch, Time [mins], Loss
+0, 0.17, 0.5523
+1, 0.03, 0.5363
+2, 0.03, 0.5164
+3, 0.03, 0.4938
+4, 0.03, 0.4718
+End @ 24 Feb 2021 02:12:56
